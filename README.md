@@ -6,9 +6,6 @@ Pokedex ID of a Pokemon on the card corresponds to your Infamy rank.
 
 Was removed from Modworkshop due to copyright violations.
 
-> [!WARNING]
-> Mod is no longer supported and is uploaded to GitHub for preservation purposes.
-
 ## Installation
 
 1. Install SuperBLT if you don't have it already https://superblt.znix.xyz/
